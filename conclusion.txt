@@ -5,6 +5,6 @@
 - Submit Conclusion: Add, commit, and push the new file conclusion.txt
 
 
-1. The most challenging part was pushing the changes to the forked repository. I had to use the command "git push origin <branch-name>", but I didn’t fully understand what "origin" referred to at the time.
+1. The most challenging part was pushing the changes to the forked repository. I had to use the command "git push -u origin <branch-name>", but I didn’t fully understand what "origin" referred to at the time.
 
 2. I learned that "origin" in the git push command is the name git assigns to the remote repository from which the project was cloned. I had assumed that using git push would automatically push the changes to the remote repository, but I realized I must specify "origin".
